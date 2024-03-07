@@ -1,0 +1,20 @@
+html {
+  background-color: bisque;
+}
+
+.banner {
+  font-size: 52px;
+  text-align: center;
+  font-family: "Verdana", "Papyrus", sans-serif;
+  color: teal;
+}
+
+.menu {
+  list-style: none;
+  text-align: center;
+  padding-left: 0%;
+}
+
+.menu li {
+  font-size: 24px;
+}
