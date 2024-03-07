@@ -1,5 +1,5 @@
 html {
-  background-color: bisque;
+  background-color: rgb(177, 177, 177);
 }
 
 .banner {
@@ -17,4 +17,20 @@ html {
 
 .menu li {
   font-size: 24px;
+}
+
+h1 {
+  font-size: 52px;
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: "Verdana", "Papyrus", sans-serif;
+  color: blueviolet;
+}
+
+#cppimg {
+  height: 600px;
+  width: 600px;
 }
