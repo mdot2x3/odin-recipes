@@ -5,7 +5,7 @@ html {
 .banner {
   font-size: 52px;
   text-align: center;
-  font-family: "Verdana", "Papyrus", sans-serif;
+  font-family: Verdana, Times, sans-serif;
   color: teal;
 }
 
@@ -26,7 +26,7 @@ h1 {
 
 h1,
 h2 {
-  font-family: "Verdana", "Papyrus", sans-serif;
+  font-family: Verdana, Times, sans-serif;
   color: blueviolet;
 }
 
